@@ -1,4 +1,4 @@
-#include "lista.h"
+#include "../header.h"
 
 struct lista{
 	int qtd;
